@@ -1,0 +1,54 @@
+.elVideo iframe {
+  background-image: url(../assets/dan.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.elVideo iframe[src="fallback-image.jpg"] {
+  display: none;
+}
+
+.Video-placeholder {
+  position: relative;
+  padding-bottom: 56.25% !important;
+  padding-top: 25px !important;
+  height: 0;
+  margin-bottom: 0px;
+  z-index: 1;
+}
+
+.button-container {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.elButton {
+  display: inline-block;
+  padding: 10px 25px;
+  border-radius: 3px;
+  background-color: #089b08;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: none;
+}
+
+.elButton:hover {
+  background-color: #0a9c0a;
+}
+
+.button-tag {
+  margin-top: 10px;
+  outline: none;
+  cursor: pointer;
+ display: flex;
+ justify-content: center;
+}
+.button-link-tag {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  background-color: rgb(8, 155, 8);
+  font-size: 20px;
+}
