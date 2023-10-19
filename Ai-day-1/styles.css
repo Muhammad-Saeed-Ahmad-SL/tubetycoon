@@ -136,3 +136,15 @@
   text-align: center;
   color: rgb(255, 0, 0);
 }
+
+.elButtonRounded {
+  border: 1px solid rgba(0, 0, 0, 0.13);
+  border-bottom: 4px solid rgba(0, 0, 0, 0.13);
+  box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.22);
+  border-radius: 6pxelButtonRounded-link;
+}
+
+.elButtonRounded:hover {
+  box-shadow: inset 0 2px 2px 0 rgba(255, 255, 255, 0.22),
+    0 233px 233px 0 rgba(255, 255, 255, 0.12) inset;
+}
