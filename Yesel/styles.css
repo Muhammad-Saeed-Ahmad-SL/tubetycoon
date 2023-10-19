@@ -1,0 +1,53 @@
+.btn-div-cl {
+  margin-top: -4px;
+  outline: none;
+  cursor: pointer;
+  font-family: "Open Sans Condensed", Helvetica, sans-serif !important;
+  opacity: 1;
+  position: relative;
+}
+.first-container-cls {
+  padding-top: 13px;
+  padding-bottom: 40px;
+  margin-top: 52px;
+  border-color: rgba(29, 29, 29, 0.207843);
+  outline: none;
+  background-color: rgb(255, 255, 255);
+}
+.heading-first-sty {
+  margin-top: 10px;
+  cursor: pointer;
+  outline: none;
+  font-family: "Open Sans Condensed", Helvetica, sans-serif !important;
+}
+.bg-first-div-st {
+  margin-top: 10px;
+  cursor: pointer;
+  outline: none;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Open Sans", Helvetica, sans-serif !important;
+}
+.bg-second-sty {
+  margin-bottom: 0px;
+  outline: none;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: -20px;
+  margin-right: -20px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.bg-second-sty-div {
+  padding-left: 19px;
+  padding-right: 19px;
+  margin-left: 2px;
+  margin-right: 2px;
+  background-color: rgb(255, 255, 255);
+}
+.footer-link-sty {
+  color: rgb(155, 155, 169);
+  font-size: 20px !important;
+}
+.red-color {
+  color: #803c3c;
+}
