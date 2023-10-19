@@ -1,0 +1,13 @@
+.first-container-sty {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 5px 0px 0px;
+  outline: none;
+  background-color: rgb(255, 255, 255);
+}
+.first-heading-sty {
+  margin-top: 0px;
+  outline: none;
+  cursor: pointer;
+  font-family: "Fjalla One", Helvetica, sans-serif !important;
+}
