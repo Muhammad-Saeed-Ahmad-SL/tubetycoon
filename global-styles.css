@@ -116,3 +116,8 @@
   cursor: pointer; 
   outline: none;
 }
+.col-iner-text{
+  text-align: center; 
+  font-size: 46px;
+  font-family: sans-serif;
+}
