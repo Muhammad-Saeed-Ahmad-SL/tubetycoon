@@ -1,0 +1,101 @@
+.main-container {
+  margin-bottom: 0px;
+  outline: none;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.first-container-inner {
+  margin-top: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.title-head {
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+.second-container-inner {
+  margin-top: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.image-container {
+  margin-top: 20px;
+  outline: none;
+  cursor: pointer;
+  margin-bottom: 52px;
+}
+
+.image-container-inner {
+  display: flex;
+  justify-content: center;
+}
+.image-container-inner-style {
+  width: 1059.55px;
+  height: 596px;
+}
+
+.image-style {
+  width: 100%;
+  height: auto;
+}
+.second-container-main {
+  padding-top: 5px;
+  padding-bottom: 20px;
+  margin: 0px;
+  outline: none;
+  display: block;
+}
+.button-tag {
+  margin-top: 10px;
+  outline: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+}
+.button-link-tag {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  background-color: rgb(8, 155, 8);
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.text-decoration {
+  text-align: center;
+  color: rgb(255, 0, 0);
+}
+.Links {
+  margin-top: 10px;
+  outline: none;
+  cursor: pointer;
+}
+.third-container-inner {
+  margin-top: 5px;
+  outline: none;
+  cursor: pointer;
+}
+
+.title-head {
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+
+.elButtonRounded {
+  border: 1px solid rgba(0, 0, 0, 0.13);
+  border-bottom: 4px solid rgba(0, 0, 0, 0.13);
+  box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.22);
+  border-radius: 6pxelButtonRounded-link;
+}
+
+.elButtonRounded:hover {
+  box-shadow: inset 0 2px 2px 0 rgba(255, 255, 255, 0.22),
+    0 233px 233px 0 rgba(255, 255, 255, 0.12) inset;
+}
+.elBtnVP_10 {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+}
