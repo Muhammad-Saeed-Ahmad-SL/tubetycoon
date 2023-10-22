@@ -99,12 +99,7 @@
   box-shadow: inset 0 2px 2px 0 rgba(255, 255, 255, 0.22),
     0 233px 233px 0 rgba(255, 255, 255, 0.12) inset;
 }
-.elBtnVP_10 {
-  padding-top: 5px !important;
-  padding-bottom: 5px !important;
-  padding-left: 15px !important;
-  padding-right: 15px !important;
-}
+
 .title-head-2 {
   text-align: center;
   font-size: 32px;
