@@ -274,3 +274,6 @@
   flex-wrap: wrap;
   align-items: center;
 }
+.head-color {
+  color: #292e38fc;
+}
